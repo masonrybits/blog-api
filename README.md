@@ -1,4 +1,4 @@
-# pythonic-garage-band
+# blog-api
 
 **Author**: Ting Luo
 **Version**: 1.0.0
